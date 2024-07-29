@@ -56,7 +56,3 @@ The results of the feature engineering process will be displayed, including the 
 1. Place your training images in the `training` directory.
 2. Modify the code to specify the paths to your training and testing image directories, or replace the existing paths with your own.
 3. Run the code.
-python your_code.py
-Feel free to modify the template according to your project's specific details and requirements. Provide clear instructions on how to use the code and any necessary setup or installation steps.
-
-Let me know if you need any further assistance!
